@@ -1,0 +1,8 @@
+{
+  "appId": "com.camapp.app",
+  "appName": "CamApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
